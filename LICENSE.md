@@ -13,9 +13,11 @@ This license does NOT grant permission to:
 4. Remove this copyright notice or license terms from the code.
 
 TERMINATION
+
 This license is automatically terminated if you violate any of the above conditions.
 
 DISCLAIMER
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
 INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
 PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, 
